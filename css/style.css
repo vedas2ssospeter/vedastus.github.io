@@ -1,0 +1,32 @@
+.brand-tittle{
+	background-color: #00001a;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.middle{
+	background-color: #ffffff;
+}
+
+.middle-1{
+	background-color: #f1f1f1;
+}
+
+.middle-center{
+	background-color: #f2f2f2;
+	box-shadow: 5px 5px 5px #999999;
+}
+
+.middle-tittle{
+	position: absolute;
+	top: 350%;
+}
+.container-above{
+	background-color: #001a00;
+	color: #ffffff;
+
+}
+
+.copyright{
+	background-color: #000000;
+}
