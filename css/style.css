@@ -1,0 +1,79 @@
+.top-nav-bar{
+    background-color: #ffffff;
+}
+
+.navbar-button{
+	background-color: #992222;
+	color: #ffffff;
+}
+
+.navbar-bellow{
+    background-color: #000000;
+}
+
+.shape-up{
+	background-color: #041901;
+	color: #ffffff;
+}
+
+.youtube{
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+
+.youtube iframe{
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 50%;
+   width: 50%;
+}
+
+.youtube-1{
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+
+.youtube-2 iframe{
+   position: absolute;
+   top: 0;
+   right: 0;
+   height: 50%;
+   width: 50%;
+}
+
+.middle{
+	background-color: #ffffff;
+	width: 100%;
+}
+
+.middle-1{
+	background-color: #f1f1f1;
+}
+
+.middle-center{
+	font-weight: bold;
+	color: #992222;
+}
+
+.middle-center-container{
+	font-weight: bold;
+}
+
+.middle-tittle{
+	position: absolute;
+	top: 350%;
+}
+.container-above{
+	background-color: #001a00;
+	color: #ffffff;
+
+}
+
+.copyright{
+	background-color: #000000;
+}
