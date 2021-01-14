@@ -1,3 +1,15 @@
+.top-nav-bar{
+    background-color: #ffffff;
+}
+
+.navbar-button{
+	background-color: #992222;
+	color: #ffffff;
+}
+
+.navbar-bellow{
+    background-color: #000000;
+}
 .brand-tittle{
 	background-color: #00001a;
 	border-radius: 5px;
