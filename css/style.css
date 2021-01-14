@@ -16,36 +16,6 @@
 	color: #ffffff;
 }
 
-.youtube{
-	position: relative;
-	width: 100%;
-	padding-bottom: 56.25%;
-	height: 0;
-}
-
-.youtube iframe{
-   position: absolute;
-   top: 0;
-   left: 0;
-   height: 50%;
-   width: 50%;
-}
-
-.youtube-1{
-	position: relative;
-	width: 100%;
-	padding-bottom: 56.25%;
-	height: 0;
-}
-
-.youtube-2 iframe{
-   position: absolute;
-   top: 0;
-   right: 0;
-   height: 50%;
-   width: 50%;
-}
-
 .middle{
 	background-color: #ffffff;
 	width: 100%;
