@@ -7,33 +7,30 @@
 	color: #ffffff;
 }
 
-.navbar-bellow{
-    background-color: #000000;
+.bellow-image{
+	background-color: #000000;
+	color: #ffffff;
+	font-weight: bold;
 }
 
-.shape-up{
-	background-color: #041901;
+.bellow-marquee p{
+    color: #ffffff;
+}
+
+.bellow-marquee{
+	color: #992222;
+	background-color: #992222;
+}
+
+.bellow-marquee-header{
+	color: #cccc00;
+}
+
+.card-body-content{
+	background-color: #001a00;
 	color: #ffffff;
 }
 
-.middle{
-	background-color: #ffffff;
-	width: 100%;
-}
-
-.middle-1{
-	background-color: #f1f1f1;
-}
-
-.middle-center{
-	font-weight: bold;
-	color: #992222;
-}
-
-.middle-tittle{
-	position: absolute;
-	top: 350%;
-}
 .container-above{
 	background-color: #001a00;
 	color: #ffffff;
