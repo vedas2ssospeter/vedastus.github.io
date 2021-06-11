@@ -19,6 +19,16 @@
 	color: #ff6600;
 }
 
+.login-form{
+	background: #f2f2f2;
+}
+
+.button-color{
+	background: #001a00;
+	color: #ffffff;
+}
+
+
 .container-above{
 	background-color: #001a00;
 	color: #ffffff;
